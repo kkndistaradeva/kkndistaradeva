@@ -38,12 +38,50 @@ Membawa perubahan positif dan berkelanjutan melalui pengabdian berbasis potensi 
 
 Grup ini terdiri dari 20 anggota luar biasa dari berbagai latar belakang keilmuan yang siap berkontribusi!
 
-| No | Nama Lengkap      | Fakultas       |
-|----|-------------------|----------------|
-| 1  | Nama 1            | [Bidang]       |
-| 2  | Nama 2            | [Bidang]       |
-| .. | ...               | ...            |
-| 20 | Nama 20           | [Bidang]       |
+## 📋 Data Anggota Kelompok Distaradeva
+
+| No | Nama Lengkap              | Peran/Tugas        | Asal Jurusan      |
+|----|---------------------------|--------------------|-------------------|
+| 1  | Wildan Wandira            | KETUPLAK           | Manajemen         |
+| 2  | Nisrina Adelya            | Sekretaris         | Manajemen         |
+| 3  | Dlva Ariyanti Saputri     | Bendahara          | Manajemen         |
+
+### 🎨 Divisi Creative
+| No | Nama Lengkap              | Peran/Tugas        | Asal Jurusan      |
+|----|---------------------------|--------------------|-------------------|
+| 4  | Nada Shelyka Nindyani     | KOOR CREATIVE      | Manajemen         |
+| 5  | Ilmal Yakin N             | Creative           | Sistem Informasi  |
+| 6  | Ahmad Manafi              | Creative           | Sistem Informasi  |
+
+### 🧠 Divisi GIOPRA
+| No | Nama Lengkap              | Peran/Tugas        | Asal Jurusan      |
+|----|---------------------------|--------------------|-------------------|
+| 7  | Shidiq Amien              | KOOR GIOPRA        | Manajemen         |
+| 8  | Trilani Rizkiyanti        | GIOPRA             | Sastra Inggris    |
+| 9  | Sulistina Sasa SK         | GIOPRA             | Sastra Inggris    |
+| 10 | Nurul Paujiah             | GIOPRA             | Farmasi           |
+| 11 | Putri Islamay             | GIOPRA             | Teknologi Pangan  |
+
+### 🤝 Divisi BINMAS
+| No | Nama Lengkap              | Peran/Tugas        | Asal Jurusan      |
+|----|---------------------------|--------------------|-------------------|
+| 12 | Karisman Abdurrahman      | KOOR BINMAS        | Manajemen         |
+| 13 | Mutia Sari Rahayu         | BINMAS             | Manajemen         |
+| 14 | Bunga Shifa               | BINMAS             | Manajemen         |
+| 15 | Lita Sari Rahayu          | BINMAS             | Hukum Islam       |
+
+### 🍽️ Divisi Konsumsi
+| No | Nama Lengkap              | Peran/Tugas        | Asal Jurusan      |
+|----|---------------------------|--------------------|-------------------|
+| 16 | Rima Holifatul Umah       | KOOR KONSUMSI      | Farmasi           |
+| 17 | Asyril Najla Annisa       | KONSUMSI           | Manajemen         |
+| 18 | Devi Agustina             | KONSUMSI           | Teknologi Pangan  |
+| 19 | Melati Nuraeni            | KONSUMSI           | Sistem Informasi  |
+
+### 📦 Divisi Inventory
+| No | Nama Lengkap              | Peran/Tugas        | Asal Jurusan      |
+|----|---------------------------|--------------------|-------------------|
+| 20 | Muhammad Aji Permana      | KOOR INVENTORY     | Manajemen         |
 
 ---
 
